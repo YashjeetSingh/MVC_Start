@@ -16,3 +16,5 @@ Added appsettings and bundleconfig files
 Updated Startup.cs class
   - to include MVC services
     - using the MVC template as the reference
+# DIS
+Repository created under the ISM6225.001F18 Distributed Information Systems course undertaken while pursuing MS BAIS at USF. 
